@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jrl1828ywr1ve7d8?svg=true)](https://ci.appveyor.com/project/sheriff777/dz12)
+[![Build status](https://ci.appveyor.com/api/projects/status/m7prrd2e5tdc1ymj/branch/master?svg=true)](https://ci.appveyor.com/project/sheriff777/hw2/branch/master)
