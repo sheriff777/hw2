@@ -11,7 +11,7 @@ class CashbackHackServiceTest {
     @CsvFileSource(resources = "/CashbackData.csv", numLinesToSkip = 1)
     void shouldCalculateCashback(int amount, int expected, String message) {
         CashbackHackService service = new CashbackHackService();
-        int actual = CashbackHackService.remain(amount);
+        int actual = service.remain(amount);
         assertEquals(expected, actual, message);
     }
 
